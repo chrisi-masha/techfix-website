@@ -1,1 +1,1 @@
-techfix a responsive ict troubleshooting website
+techfix a responsive ict troubleshooting website. It helps alot.
